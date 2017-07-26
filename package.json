@@ -1,0 +1,26 @@
+{
+  "name": "userinteraction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "James <boydston.j@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mustache-express": "^1.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "boilerplate": {
+    "name": "express-skeleton",
+    "version": "1.0.0",
+    "author": "Michael Sweeney <jfmike@gmail.com> (https://github.com/overthemike)",
+    "license": "MIT"
+  },
+  "description": "Intro to user interaction",
+  "repository": "git@github.com:SquaredDev/userInteraction.git"
+}
